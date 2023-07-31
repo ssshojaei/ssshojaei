@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I have more than 8 years of experience as a software developer focusing on front-end development. a track record of producing scalable online apps. the expertise in JavaScript, CSS, NextJS, and React. oriented toward keeping up with the most modern advances in technology and web standards.
+I have over 9 years of experience as a software engineer with an emphasis on front-end development. My experience over the years has made me a pioneer in the formation of discussions and the decision-making process.
 
 [![](https://visitcount.itsvg.in/api?id=ssshojaei&icon=0&color=0)](https://visitcount.itsvg.in)
 
