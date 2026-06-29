@@ -1,2 +1,2 @@
 ## 💫 About Me:
-I've been working as a software engineer for over 9 years now, with a special focus on front-end development. Through my experience, I've become quite skilled at leading constructive discussions and contributing to effective decision-making. Let me know if there's anything I can help you with!
+Senior Frontend & Native Mobile Engineer with 10+ years of experience driving product growth across React Native and Next.js. Fintech specialist with a track record of scaling applications to 3 million users, shipping secure neobank features, and leading a developer community of 3,000+ members. Combines deep technical expertise with modern AI-assisted development workflows to accelerate delivery and improve code quality.
